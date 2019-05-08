@@ -17,3 +17,10 @@ U
 %app/js/controllers/EventController.js,e/6/e6615e409adb4db8d0ebd8a7d52a5c52a627ce7a
 E
 app/EventDetails.html,1/9/192f93e52d96554c6bbd0cf15ce16f8978ed5db2
+A
+app/NewEvent.html,3/b/3b481722cd8e6bb97f30a308209a0db5e365ccef
+Y
+)app/js/controllers/EditEventController.js,a/2/a2b8994c105f086f7c025e6cc5bf95daea0ba6c3
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
